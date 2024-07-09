@@ -1,6 +1,6 @@
-# The documentation of Ascend doc
+# The Doc of Ascend Supported Open Source project
 
-This repository is a collection of documentation for ascend native support opensource projects.
+This repository is a collection of documentation for Ascend supported open source projects.
 
 # Structure
 
